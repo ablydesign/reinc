@@ -1,0 +1,4 @@
+[13-Feb-2016 15:15:34] PHP Fatal error:  Call to undefined function  __() in /home/proje387/public_html/cliente/reinc/wp-content/themes/reinc/custom_js.php on line 37
+[04-Sep-2016 07:46:39 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/reinc036/public_html/wp-content/themes/reinc/index.php on line 1
+[12-Mar-2018 16:30:40 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/reinc036/public_html/wp-content/themes/reinc/index.php on line 1
+[19-Apr-2018 10:12:51 America/Chicago] PHP Fatal error:  Call to undefined function get_header() in /home/reinc036/public_html/wp-content/themes/reinc/index.php on line 1

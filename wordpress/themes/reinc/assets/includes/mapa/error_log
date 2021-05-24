@@ -1,0 +1,2 @@
+[02-Mar-2016 05:12:54] PHP Fatal error:  Call to undefined function  countempresasbystatusandlocation() in /home/proje387/public_html/cliente/reinc/wp-content/themes/reinc/assets/includes/mapa/map.php on line 14
+[02-Mar-2016 05:15:24] PHP Fatal error:  Class 'WP_Query' not found in /home/proje387/public_html/cliente/reinc/wp-content/themes/reinc/assets/includes/mapa/map.php on line 30

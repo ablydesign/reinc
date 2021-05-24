@@ -1,0 +1,576 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Reinc\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon May 09 2016 15:52:32 GMT-0300 (BRT)\n"
+"POT-Revision-Date: Mon Sep 19 2016 14:31:29 GMT-0300 (BRT)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: ramos <hramos@live.de>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: en_US\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../single-parques_tecnologicos.php:7 ../assets/includes/mapa/map.php:81
+msgid "Parque Tecnológico"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:11 ../single-incubadoras.php:11 ../single-
+#: incubadoras.old.php:11 ../single-custom_biblioteca.php:11 ../single-empresas.
+#: php:11 ../single-custom_atividades.php:11
+msgid "< Voltar"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:19 ../single-incubadoras.php:19 ../single-
+#: empresas.php:19
+msgid "Nome"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:27 ../single-incubadoras.php:27 ../single-
+#: empresas.php:43
+msgid "Descrição"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:86 ../single-incubadoras.php:80 ../single-
+#: incubadoras.old.php:89 ../single-empresas.php:143
+msgid "Acesse o associado"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:103 ../single-incubadoras.php:95 ../single-
+#: incubadoras.old.php:106
+msgid "Indicadores"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:109 ../single-incubadoras.php:128 ../single-
+#: incubadoras.old.php:139
+msgid "Associadas"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:122 ../single-incubadoras.old.php:156 ..
+#: page-associados.php:77
+msgid "Empresas"
+msgstr ""
+
+#: ../single-parques_tecnologicos.php:127 ../single-incubadoras.php:164 ../single-
+#: incubadoras.old.php:174 ../page-associados.php:94 ../page-associadosV2.php:44 .
+#: ./page-associadosV2.php:54
+msgid "Carregando..."
+msgstr ""
+
+#: ../page-sobre.php:12
+msgid "O que é a ReINC?"
+msgstr ""
+
+#: ../page-sobre.php:21
+msgid "Missão"
+msgstr ""
+
+#: ../page-sobre.php:22
+msgid "Visão"
+msgstr ""
+
+#: ../page-sobre.php:23
+msgid "Valores"
+msgstr ""
+
+#: ../page-sobre.php:47
+msgid "Objetivos da ReINC"
+msgstr ""
+
+#: ../page-sobre.php:74
+msgid "Coordenação"
+msgstr ""
+
+#: ../page-contato.php:12
+msgid "Contato"
+msgstr ""
+
+#: ../page-contato.php:16
+msgid ""
+"Para falar com a ReINC, basta preencher os campos abaixo que <br/>\n"
+"                    logo entraremos em contato."
+msgstr ""
+
+#: ../single-incubadoras.php:7 ../single-incubadoras.old.php:7 ../single-empresas.
+#: php:73 ../single-empresas.php:77 ../assets/includes/mapa/map.php:80
+msgid "Incubadora"
+msgstr ""
+
+#: ../single-incubadoras.php:101 ../single-incubadoras.old.php:112
+msgid "Pré-incubadas"
+msgstr ""
+
+#: ../single-incubadoras.php:110 ../single-incubadoras.old.php:121
+msgid "Incubadas"
+msgstr ""
+
+#: ../single-incubadoras.php:119 ../single-incubadoras.old.php:130
+msgid "Graduadas"
+msgstr ""
+
+#: ../single-incubadoras.php:143 ../single-incubadoras.old.php:186 ../single-
+#: custom_biblioteca.php:46 ../single-empresas.php:168 ../single-
+#: custom_atividades.php:48
+msgid "Galeria de Fotos"
+msgstr ""
+
+#: ../single-incubadoras.old.php:19
+msgid "Nome:"
+msgstr ""
+
+#: ../single-incubadoras.old.php:27 ../single-custom_biblioteca.php:22 ../single-
+#: custom_atividades.php:24
+msgid "Descrição:"
+msgstr ""
+
+#: ../single-incubadoras.old.php:44
+msgid "Logotipo"
+msgstr ""
+
+#: ../single-incubadoras.old.php:308 ../ramos_custom_functions.old.php:1077 ..
+#: custom_js.old.php:37 ../custom_js.php:37 ../ramos_custom_functions.php:625 ..
+#: ramos_custom_functions.php:631 ../class/WP_Intranet.php:408
+msgid "Nenhum resultado encontrado."
+msgstr ""
+
+#: ../single-incubadoras.old.php:343 ../custom_js.old.php:60 ../custom_js.php:67
+msgid "Carregar mais resultados"
+msgstr ""
+
+#: ../footer.php:25
+msgid "Receba Informações da ReINC:"
+msgstr ""
+
+#: ../footer.php:26
+msgid "Escreva seu nome"
+msgstr ""
+
+#: ../footer.php:27
+msgid "Escreva seu e-mail"
+msgstr ""
+
+#: ../footer.php:28
+msgid "Enviar"
+msgstr ""
+
+#: ../footer.php:32
+msgid "Tel"
+msgstr ""
+
+#: ../footer.php:34
+msgid "End"
+msgstr ""
+
+#: ../footer.php:43
+msgid "Desenvolvido por:"
+msgstr ""
+
+#: ../ramos_custom_functions.old.php:107 ../ramos_custom_functions.php:50
+msgid "Todas"
+msgstr ""
+
+#: ../single-custom_biblioteca.php:26 ../single-custom_atividades.php:28
+msgid "Saiba Mais:"
+msgstr ""
+
+#: ../page-associados.php:12 ../page-associadosV2.php:13 ../front-page.php:130
+msgid "Associados"
+msgstr ""
+
+#: ../page-associados.php:37 ../page-associadosV2.php:17
+#, php-format
+msgid ""
+"A ReINC conta com %s incubadoras associadas, %s parques tecnológicos, com "
+"mais de %s empreendimentos incubados e %s graduados ou associados. Conheça "
+"os participantes da ReINC:"
+msgstr ""
+
+#: ../page-associados.php:44
+msgid "Incubadoras de Empresas"
+msgstr ""
+
+#: ../page-associados.php:61
+msgid "Parques Tecnol&oacute;gicos"
+msgstr ""
+
+#: ../search.php:6
+msgid "Busca"
+msgstr ""
+
+#: ../search.php:9
+#, php-format
+msgid "Foram encotrados %1$d resultados para: <b>%2$s</b>"
+msgstr ""
+
+#: ../search.php:13
+msgid "Publicado em "
+msgstr ""
+
+#: ../search.php:13
+msgid "Tipo"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Desculpe, nenhum resultado encontrado para: <b>%1$s</b>"
+msgstr ""
+
+#: ../header.php:31
+msgid "Acessar Intranet"
+msgstr ""
+
+#: ../header.php:73
+msgid "O que podemos ajudá-lo a encontrar?"
+msgstr ""
+
+#: ../header.php:78
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: ../single-empresas.php:7
+msgid "Empresa"
+msgstr ""
+
+#: ../single-empresas.php:27
+msgid "Área de atuação"
+msgstr ""
+
+#: ../single-empresas.php:53
+msgid "Status:"
+msgstr ""
+
+#: ../single-empresas.php:75
+msgid "Parque Tecnol&oacute;gico"
+msgstr ""
+
+#: ../page-bibliotecaV2.php:19
+msgid "Documentos"
+msgstr ""
+
+#: ../page-bibliotecaV2.php:23
+msgid "Artigos e Publicações"
+msgstr ""
+
+#: ../page-bibliotecaV2.php:27
+msgid "Cerne"
+msgstr ""
+
+#: ../page-associadosV2.php:37
+msgid "Visualizar por imagem"
+msgstr ""
+
+#: ../page-associadosV2.php:38
+msgid "Visualizar no Mapa"
+msgstr ""
+
+#: ../front-page.php:8
+msgid "Passe o mouse sobre o mapa <br>e <strong>veja os nossos associados</strong>"
+msgstr ""
+
+#: ../front-page.php:18
+msgid "Destaques"
+msgstr ""
+
+#: ../front-page.php:37 ../front-page.php:39
+msgid "Mais informações"
+msgstr ""
+
+#: ../front-page.php:53
+msgid "Indicadores ReINC"
+msgstr ""
+
+#: ../front-page.php:72 ../assets/includes/mapa/map.php:80
+msgid "Incubadoras"
+msgstr ""
+
+#: ../front-page.php:81
+msgid "Parques<br />Tecnol&oacute;gicos"
+msgstr ""
+
+#: ../front-page.php:90
+msgid "Empresas<br/>Incubadas"
+msgstr ""
+
+#: ../front-page.php:99
+msgid "Empresas<br/>Graduadas"
+msgstr ""
+
+#: ../front-page.php:107
+msgid "Veja Mais >"
+msgstr ""
+
+#: ../front-page.php:159
+msgid "Apoio"
+msgstr ""
+
+#: ../assets/includes/taxonomia/taxonomias.php:9
+msgid "Destination"
+msgstr ""
+
+#: ../assets/includes/taxonomia/taxonomias.php:11
+msgid "Atualizar"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:13 ..
+#: assets/includes/custom-post-types/custom-post-types.php:15
+msgid "Atividade"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:14
+msgid "Listar Atividades"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:47 ..
+#: assets/includes/custom-post-types/custom-post-types.php:49
+msgid "Biblioteca"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:48
+msgid "Listar Biblioteca"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:87 ..
+#: class/WP_Intranet.old.php:391 ../class/WP_Intranet.php:478
+msgid "Projetos"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:88
+msgid "Listar Projetos"
+msgstr ""
+
+#: ../assets/includes/custom-post-types/custom-post-types.php:89
+msgid "Projeto"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:41
+msgid "Região Metropolitana"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:48
+msgid "Região Norte Fluminense"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:55
+msgid "Região Serrana"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:62
+msgid "Região do Médio Paraíba"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:81
+msgid "Parques Tecnológicos"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:82
+msgid "Empresas Incubadas"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:82
+msgid "Empresa Incubada"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:83
+msgid "Empresas Graduadas"
+msgstr ""
+
+#: ../assets/includes/mapa/map.php:83
+msgid "Empresa Graduada"
+msgstr ""
+
+#: ../class/WP_Associados.php:25
+msgid "Todos"
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:94 ../class/WP_Intranet.php:96
+msgid "Favor informe um nome"
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:97 ../class/WP_Intranet.php:99
+msgid "Favor informe um texto"
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:100 ../class/WP_Intranet.php:102
+msgid "Favor informe um Link"
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:104 ../class/WP_Intranet.php:106
+msgid "Falha ao validar sua solicitação"
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:123 ../class/WP_Intranet.php:125
+msgid "Seu Projeto foi salvo com sucesso"
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:126 ../class/WP_Intranet.php:128
+msgid "Erro ao Salvar "
+msgstr ""
+
+#: ../class/WP_Intranet.old.php:132 ../class/WP_Intranet.php:134
+msgid "Essa ação não pode ser executada "
+msgstr ""
+
+#. Name of the theme
+msgid "Reinc"
+msgstr ""
+
+#. Description of the theme
+msgid "Informações do tema"
+msgstr ""
+
+msgid "Serviços"
+msgstr ""
+
+msgid "Atividades"
+msgstr ""
+
+msgid "Sobre"
+msgstr ""
+
+msgid "Encontros ReINC"
+msgstr ""
+
+msgid "Parceiros"
+msgstr ""
+
+msgid "Base Tecnológica"
+msgstr ""
+
+msgid "Design/Economia Criativa"
+msgstr ""
+
+msgid "Economia Solidária"
+msgstr ""
+
+msgid "Implementação"
+msgstr ""
+
+msgid "Implementados"
+msgstr ""
+
+msgid "Agronegócio"
+msgstr ""
+
+msgid "Automobilístico"
+msgstr ""
+
+msgid "Biotecnologia"
+msgstr ""
+
+msgid "Educação"
+msgstr ""
+
+msgid "Meio Ambiente"
+msgstr ""
+
+msgid "Tecnologia Industrial"
+msgstr ""
+
+msgid "Em Operação"
+msgstr ""
+
+msgid "Coordenador"
+msgstr ""
+
+msgid "Vice - coordenador"
+msgstr ""
+
+msgctxt "Serviços da REINC"
+msgid "Serviços da REINC"
+msgstr ""
+
+msgid "Baixar a Identidade Visual"
+msgstr ""
+
+msgid "Regimento Interno"
+msgstr ""
+
+msgid "Rede de Agentes Promotores de Empreendimentos Inovadores"
+msgstr ""
+
+msgid "Em operação"
+msgstr ""
+
+msgid "Implantação"
+msgstr ""
+
+msgid "Serviços da REINC"
+msgstr ""
+
+msgid "Edifício"
+msgstr ""
+
+msgid "Arquivos para Baixar"
+msgstr ""
+
+msgid "Programas de Aceleração"
+msgstr ""
+
+msgid "**Todas as informações tem como base as Empresas cadastradas e suas relações"
+msgstr ""
+
+msgid "Status das Empresas"
+msgstr ""
+
+msgid "Pré-Incubadas"
+msgstr ""
+
+#, c-format
+msgid ""
+"Número de Incubadoras por Area de Atuação: Base Tecnológica (%s), "
+"Design/Economia Criativa (%s) e Economia Solidária (%s)"
+msgstr ""
+
+msgid "Tipos de Incubadoras"
+msgstr ""
+
+msgid "Tipos de Empresas"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "O que Faz?"
+msgstr ""
+
+msgid "Por que isso importa?"
+msgstr ""
+
+msgid "Manual da Marca"
+msgstr ""
+
+msgid "Logica de Estruturação dos Projetos Estratégicos"
+msgstr ""
+
+msgid "Aceleradoras"
+msgstr ""
+
+msgid "Pré-aceleradoras"
+msgstr ""
+
+msgid "Outros"
+msgstr ""
+
+msgid "Empresas por incubadora"
+msgstr ""
+
+msgid "Empresas por área de atuação"
+msgstr ""
+
+msgid "Empresas por status"
+msgstr ""

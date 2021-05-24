@@ -1,0 +1,72 @@
+/* ======================================
+    Reset Bootstrap
+=========================================*/
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+a {
+    color: #929292;
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.transition {
+    -moz-transition: all .4s ease;
+    -o-transition: all .4s ease;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+}
+.navbar-brand {
+    width: 100%;
+    padding: 0;
+}
+.navbar-brand > img {
+    display: block;
+    margin: 0 auto;
+}
+.navbar {
+    border-radius: 0;
+    border: 0;
+    margin: 0;
+}
+.navbar-nav {
+    margin-top: 110px;
+}
+.nav li a{
+    border-top: 9px solid transparent;
+}
+.nav li a:hover,
+.nav li a:focus,
+.navbar-nav li.current-menu-item a{
+    text-decoration: none;
+    background-color: transparent;
+    border-top: 9px solid;
+    color: $color-two;
+    width: 100%;
+    background: $color-light;
+}
+
+.navbar-nav li {
+    padding-left: 0px;
+}
+
+.navbar-nav li:first-child {
+    padding-left: 0;
+}
+
+.navbar-nav li a {
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 0 40px;
+    line-height: 56px;
+}
